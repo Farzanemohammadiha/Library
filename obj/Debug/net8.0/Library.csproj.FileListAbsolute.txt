@@ -1,0 +1,14 @@
+D:\Users\Farzaneh\source\repos\Library\Library\bin\Debug\net8.0\Library.exe
+D:\Users\Farzaneh\source\repos\Library\Library\bin\Debug\net8.0\Library.deps.json
+D:\Users\Farzaneh\source\repos\Library\Library\bin\Debug\net8.0\Library.runtimeconfig.json
+D:\Users\Farzaneh\source\repos\Library\Library\bin\Debug\net8.0\Library.dll
+D:\Users\Farzaneh\source\repos\Library\Library\bin\Debug\net8.0\Library.pdb
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.GeneratedMSBuildEditorConfig.editorconfig
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.AssemblyInfoInputs.cache
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.AssemblyInfo.cs
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.csproj.CoreCompileInputs.cache
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.dll
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\refint\Library.dll
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.pdb
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\Library.genruntimeconfig.cache
+D:\Users\Farzaneh\source\repos\Library\Library\obj\Debug\net8.0\ref\Library.dll
