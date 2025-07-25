@@ -163,6 +163,17 @@ public class Program
 
         public void BorrowBook(int memberCodeId, int bookId)
         {
+            int limitedBooks = 3;
+            foreach (Member m in Members)
+            {
+                if (m.BorrowedBooks.Count > limitedBooks)
+                {
+                    Console.WriteLine($"Member {m.CodeId} can't borrow more than {limitedBooks} books.");
+                }
+            }
+
+
+
             Member member = null;
             foreach (Member m in Members)
             {
@@ -209,6 +220,17 @@ public class Program
             book.BorrowDate = DateTime.Now;
             book.ReturnDate = null;
             Console.WriteLine($"{member.Name} borrowed \"{book.Title}\" on {book.BorrowDate.Value:yyyy/MM/dd HH:mm}");
+
+
+            
+
+
+
+
+
+
+
+
         }
 
         public void ReturnBook(int memberCodeId, int bookId)
